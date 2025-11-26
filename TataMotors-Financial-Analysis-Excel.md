@@ -29,7 +29,7 @@ You can download the main Excel project file here:
 This project helps in understanding accounting processes of a company and demonstrates Excel skills effectively.  
 It can be used as a reference for learning or showcasing skills in resumes.
 
-*Prepared by:* Bhakti Dalvi
+
 
 
 
