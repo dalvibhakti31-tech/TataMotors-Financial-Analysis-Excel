@@ -1,4 +1,4 @@
-# Tata Motors Accounting Project
+# Tata Motors Accounting Project (Using MS Office)
 
 ## Project Overview
 This project demonstrates basic accounting and financial analysis for Tata Motors using Excel.  
