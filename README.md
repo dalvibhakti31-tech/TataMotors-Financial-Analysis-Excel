@@ -42,8 +42,7 @@ This project presents a complete business and financial analysis of Tata Motors 
 <img width="666" height="455" alt="Picture1" src="https://github.com/user-attachments/assets/e2230ffa-7961-4534-a080-b219aea5f99f" />
 
 
-## Screenshots
-([Screenshots/Screenshot1.png](https://github.com/dalvibhakti31-tech/TataMotors-Financial-Analysis-Excel/blob/main/Picture1.png)
+
 ## PPT File
   
 [Download TataMotors_Presentation.pptx]([PPT-Files/TataMotors_Presentation.pptx](https://github.com/dalvibhakti31-tech/TataMotors-Financial-Analysis-Excel/blob/main/Tata%20Motors%20%E2%80%93%20Business%20Analysis%20_Presentation.pptx)
