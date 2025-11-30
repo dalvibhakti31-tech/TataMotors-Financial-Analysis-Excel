@@ -37,15 +37,15 @@ This project presents a complete business and financial analysis of Tata Motors 
 
 
 ## Excel File  
-[Download TataMotors_Project.xlsx]([Excel-Files/TataMotors_Project.xlsx](https://github.com/dalvibhakti31-tech/TataMotors-Financial-Analysis-Excel/blob/main/Book1.xlsx))
+[Excel File]([Excel-Files/TataMotors_Project.xlsx](https://github.com/dalvibhakti31-tech/TataMotors-Financial-Analysis-Excel/blob/main/Book1.xlsx))
 
 <img width="666" height="455" alt="Picture1" src="https://github.com/user-attachments/assets/e2230ffa-7961-4534-a080-b219aea5f99f" />
 
 
 
-## PPT File
+## PowerPoint
   
-[Download TataMotors_Presentation.pptx]([PPT-Files/TataMotors_Presentation.pptx](https://github.com/dalvibhakti31-tech/TataMotors-Financial-Analysis-Excel/blob/main/Tata%20Motors%20%E2%80%93%20Business%20Analysis%20_Presentation.pptx)
+[PowerPoint]([PPT-File](https://github.com/dalvibhakti31-tech/TataMotors-Financial-Analysis-Excel/blob/main/Tata%20Motors%20%E2%80%93%20Business%20Analysis%20_Presentation.pptx)
 <img width="1852" height="973" alt="PPT slide" src="https://github.com/user-attachments/assets/74f77ac5-00a0-492a-aa4f-ec0eed8e5419" />
 ## 📊 Summary Report using ([word](https://github.com/dalvibhakti31-tech/TataMotors-Financial-Analysis-Excel/blob/main/%F0%9F%93%8A%20Summary%20Report.docx))
 <img width="955" height="503" alt="word summery" src="https://github.com/user-attachments/assets/c0b149b1-75cb-42d0-9418-42ed83232468" />
